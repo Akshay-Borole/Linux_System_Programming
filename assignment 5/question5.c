@@ -1,0 +1,3 @@
+/*write a program which accept file name which contains data of all file.
+we have ro create all file again
+*/
